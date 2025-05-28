@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👨‍💻 Matheus Martins
 
-<!--
-**matheusmnn/matheusmnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Engenharia da Computação**
 
-Here are some ideas to get you started:
+Olá! Tenho 22 anos, sou natural de Ouro Preto (MG), mas atualmente moro em João Monlevade. Estou no **7º período de Engenharia da Computação** e também sou formado no curso técnico em **Automação Industrial**. Tenho paixão por tecnologia, gosto de aprender na prática e sempre busco me desenvolver como programador full stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estudo e desenvolvo projetos com foco em:
+
+- C  
+- Java  
+- Assembly  
+- HTML | CSS | JavaScript  
+- React  
+- TypeScript  
+
+---
+
+### 🧠 Tecnologias que estudo e utilizo
+
+<div style="display: flex; gap: 10px;">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+  <img height="30" src="https://img.icons8.com/color/600w/assembly.png" alt="Assembly"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
+</div>
+
+---
+
+### 📊 Estatísticas GitHub
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=matheusmnn&show_icons=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmnn&layout=compact&theme=tokyonight&custom_title=Linguagens&langs_count=8" alt="Top Langs"/>
+</div>
+
+---
+
+### 📫 Onde me encontrar
+
+- Instagram: [@_matheusmnn](https://instagram.com/_matheusmnn)   
+- E-mail: [matheusmartinsnunes@gmail.com](mailto:matheusmartinsnunes@gmail.com)
