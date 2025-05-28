@@ -19,7 +19,7 @@ Olá! Me chamo Matheus Martins Nunes, tenho 22 anos, sou natural de Ouro Preto (
 
 ---
 
-### 📊 Estatísticas GitHub
+### 📊 Estatísticas
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=matheusmnn&show_icons=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats"/>
