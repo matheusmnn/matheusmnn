@@ -2,20 +2,9 @@
 
 **Estudante de Engenharia da Computação**
 
-Olá! Tenho 22 anos, sou natural de Ouro Preto (MG), mas atualmente moro em João Monlevade. Estou no **7º período de Engenharia da Computação** e também sou formado no curso técnico em **Automação Industrial**. Tenho paixão por tecnologia, gosto de aprender na prática e sempre busco me desenvolver como programador full stack.
+Olá! Me chamo Matheus Martins Nunes, tenho 22 anos, sou natural de Ouro Preto (MG), mas atualmente moro em João Monlevade. Estou cursando **Engenharia da Computação** e também sou formado no curso técnico em **Automação Industrial**.
 
-Atualmente, estudo e desenvolvo projetos com foco em:
-
-- C  
-- Java  
-- Assembly  
-- HTML | CSS | JavaScript  
-- React  
-- TypeScript  
-
----
-
-### 🧠 Tecnologias que estudo e utilizo
+### 🧠 Linguagens e Tecnologias
 
 <div style="display: flex; gap: 10px;">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
