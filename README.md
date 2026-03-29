@@ -22,7 +22,7 @@ Olá! Me chamo Matheus Martins Nunes, tenho 23 anos, sou natural de Ouro Preto (
 ### 📊 Estatísticas de Linguagens
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB_AQUI&layout=pie&theme=transparent&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmnn&layout=pie&theme=transparent&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 ---
