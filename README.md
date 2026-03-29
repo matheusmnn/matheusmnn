@@ -2,7 +2,7 @@
 
 **Estudante de Engenharia da Computação**
 
-Olá! Me chamo Matheus Martins Nunes, tenho 22 anos, sou natural de Ouro Preto (MG), mas atualmente moro em João Monlevade. Estou cursando **Engenharia da Computação** e também sou formado no curso técnico em **Automação Industrial**.
+Olá! Me chamo Matheus Martins Nunes, tenho 23 anos, sou natural de Ouro Preto (MG), mas atualmente moro em João Monlevade. Estou cursando **Engenharia da Computação** e também sou formado no curso técnico em **Automação Industrial**.
 
 ### 🧠 Linguagens e Tecnologias
 
@@ -19,12 +19,16 @@ Olá! Me chamo Matheus Martins Nunes, tenho 22 anos, sou natural de Ouro Preto (
 
 ---
 
+### 📊 Estatísticas de Linguagens
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB_AQUI&layout=pie&theme=transparent&hide_border=true" alt="Linguagens mais usadas" />
+</div>
+
+---
+
 ### 📫 Onde me encontrar
 
 - Instagram: [@_matheusmnn](https://instagram.com/_matheusmnn)   
 - E-mail: [matheusmartinsnunes@gmail.com](mailto:matheusmartinsnunes@gmail.com)
 - Linkedin: [Matheus Martins](https://www.linkedin.com/in/matheusmartinsn/)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB_AQUI&layout=pie&theme=transparent&hide_border=true" alt="Linguagens mais usadas" />
-</div>
